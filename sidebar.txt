@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkz:home|Door43 (xkz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkz|d43-xkz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkz/archive/master.zip|d43-xkz.zip]]
+
+**Recent Changes**
+{{changes>ns = xkz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkz|Ethnologue data]]
+
